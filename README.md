@@ -1,4 +1,4 @@
-#MERN Stack Netflix Clone – Project Description
+# MERN Stack Netflix Clone – Project Description
 
 I developed a Netflix Clone using the MERN stack (MongoDB, Express.js, React.js, Node.js) that replicates the core functionality and design of the Netflix platform. The application allows users to sign up, log in, browse movies/TV shows, and stream video content, providing a seamless and engaging user experience.
 
